@@ -1,0 +1,506 @@
+[
+  {
+    "name": "Ski Goggles",
+    "category": "winter sports",
+    "price": 75,
+    "rating": 4.6
+  },
+  {
+    "name": "Snowboard",
+    "category": "winter sports",
+    "price": 300,
+    "rating": 4.7
+  },
+  {
+    "name": "Ice Axe",
+    "category": "climbing",
+    "price": 90,
+    "rating": 4.5
+  },
+  {
+    "name": "Crampons",
+    "category": "climbing",
+    "price": 120,
+    "rating": 4.6
+  },
+  {
+    "name": "Climbing Harness",
+    "category": "climbing",
+    "price": 80,
+    "rating": 4.7
+  },
+  {
+    "name": "Carabiner Set",
+    "category": "climbing",
+    "price": 50,
+    "rating": 4.4
+  },
+  {
+    "name": "Camping Lantern",
+    "category": "camping",
+    "price": 40,
+    "rating": 4.5
+  },
+  {
+    "name": "Portable Chair",
+    "category": "camping",
+    "price": 35,
+    "rating": 4.3
+  },
+  {
+    "name": "Cooler Box",
+    "category": "outdoor",
+    "price": 60,
+    "rating": 4.4
+  },
+  {
+    "name": "Folding Table",
+    "category": "camping",
+    "price": 70,
+    "rating": 4.5
+  },
+  {
+    "name": "Inflatable Mattress",
+    "category": "camping",
+    "price": 55,
+    "rating": 4.2
+  },
+  {
+    "name": "Solar Charger",
+    "category": "outdoor",
+    "price": 85,
+    "rating": 4.6
+  },
+  {
+    "name": "Water Filter",
+    "category": "outdoor",
+    "price": 45,
+    "rating": 4.5
+  },
+  {
+    "name": "Multi-Tool",
+    "category": "outdoor",
+    "price": 65,
+    "rating": 4.7
+  },
+  {
+    "name": "Compass",
+    "category": "outdoor",
+    "price": 20,
+    "rating": 4.3
+  },
+  {
+    "name": "Map Case",
+    "category": "outdoor",
+    "price": 15,
+    "rating": 4.2
+  },
+  {
+    "name": "First Aid Kit",
+    "category": "outdoor",
+    "price": 30,
+    "rating": 4.5
+  },
+  {
+    "name": "Survival Blanket",
+    "category": "outdoor",
+    "price": 10,
+    "rating": 4.1
+  },
+  {
+    "name": "Fire Starter",
+    "category": "outdoor",
+    "price": 25,
+    "rating": 4.4
+  },
+  {
+    "name": "Trekking Poles",
+    "category": "hiking",
+    "price": 60,
+    "rating": 4.6
+  },
+  {
+    "name": "Hiking Backpack",
+    "category": "hiking",
+    "price": 110,
+    "rating": 4.7
+  },
+  {
+    "name": "Hydration Bladder",
+    "category": "hiking",
+    "price": 35,
+    "rating": 4.5
+  },
+  {
+    "name": "Trail Running Shoes",
+    "category": "running",
+    "price": 95,
+    "rating": 4.6
+  },
+  {
+    "name": "Running Belt",
+    "category": "running",
+    "price": 20,
+    "rating": 4.3
+  },
+  {
+    "name": "Cycling Jersey",
+    "category": "cycling",
+    "price": 50,
+    "rating": 4.4
+  },
+  {
+    "name": "Cycling Shorts",
+    "category": "cycling",
+    "price": 55,
+    "rating": 4.5
+  },
+  {
+    "name": "Bike Pump",
+    "category": "cycling",
+    "price": 30,
+    "rating": 4.3
+  },
+  {
+    "name": "Bike Lock",
+    "category": "cycling",
+    "price": 40,
+    "rating": 4.4
+  },
+  {
+    "name": "Bike Lights",
+    "category": "cycling",
+    "price": 25,
+    "rating": 4.2
+  },
+  {
+    "name": "Bike Rack",
+    "category": "cycling",
+    "price": 70,
+    "rating": 4.5
+  },
+  {
+    "name": "Fishing Tackle Box",
+    "category": "fishing",
+    "price": 45,
+    "rating": 4.4
+  },
+  {
+    "name": "Fishing Line",
+    "category": "fishing",
+    "price": 15,
+    "rating": 4.2
+  },
+  {
+    "name": "Fishing Hat",
+    "category": "fishing",
+    "price": 20,
+    "rating": 4.3
+  },
+  {
+    "name": "Fishing Waders",
+    "category": "fishing",
+    "price": 120,
+    "rating": 4.6
+  },
+  {
+    "name": "Fishing Gloves",
+    "category": "fishing",
+    "price": 25,
+    "rating": 4.1
+  },
+  {
+    "name": "Fishing Scale",
+    "category": "fishing",
+    "price": 30,
+    "rating": 4.3
+  },
+  {
+    "name": "Fishing Pliers",
+    "category": "fishing",
+    "price": 35,
+    "rating": 4.4
+  },
+  {
+    "name": "Fishing Vest",
+    "category": "fishing",
+    "price": 50,
+    "rating": 4.5
+  },
+  {
+    "name": "Gym Bag",
+    "category": "fitness",
+    "price": 40,
+    "rating": 4.3
+  },
+  {
+    "name": "Resistance Bands",
+    "category": "fitness",
+    "price": 25,
+    "rating": 4.4
+  },
+  {
+    "name": "Foam Roller",
+    "category": "fitness",
+    "price": 30,
+    "rating": 4.5
+  },
+  {
+    "name": "Jump Rope",
+    "category": "fitness",
+    "price": 15,
+    "rating": 4.2
+  },
+  {
+    "name": "Weightlifting Gloves",
+    "category": "fitness",
+    "price": 20,
+    "rating": 4.3
+  },
+  {
+    "name": "Yoga Block",
+    "category": "fitness",
+    "price": 10,
+    "rating": 4.1
+  },
+  {
+    "name": "Yoga Strap",
+    "category": "fitness",
+    "price": 12,
+    "rating": 4.2
+  },
+  {
+    "name": "Yoga Towel",
+    "category": "fitness",
+    "price": 18,
+    "rating": 4.3
+  },
+  {
+    "name": "Pilates Ring",
+    "category": "fitness",
+    "price": 35,
+    "rating": 4.4
+  },
+  {
+    "name": "Treadmill",
+    "category": "fitness",
+    "price": 500,
+    "rating": 4.7
+  },
+  {
+    "name": "Elliptical Trainer",
+    "category": "fitness",
+    "price": 600,
+    "rating": 4.6
+  },
+  {
+    "name": "Exercise Bike",
+    "category": "fitness",
+    "price": 450,
+    "rating": 4.5
+  },
+  {
+    "name": "Rowing Machine",
+    "category": "fitness",
+    "price": 550,
+    "rating": 4.6
+  },
+  {
+    "name": "Weight Bench",
+    "category": "fitness",
+    "price": 150,
+    "rating": 4.4
+  },
+  {
+    "name": "Barbell Set",
+    "category": "fitness",
+    "price": 200,
+    "rating": 4.5
+  },
+  {
+    "name": "Weight Plates",
+    "category": "fitness",
+    "price": 100,
+    "rating": 4.3
+  },
+  {
+    "name": "Pull-Up Bar",
+    "category": "fitness",
+    "price": 50,
+    "rating": 4.4
+  },
+  {
+    "name": "Ab Roller",
+    "category": "fitness",
+    "price": 20,
+    "rating": 4.2
+  },
+  {
+    "name": "Medicine Ball",
+    "category": "fitness",
+    "price": 40,
+    "rating": 4.3
+  },
+  {
+    "name": "Balance Board",
+    "category": "fitness",
+    "price": 60,
+    "rating": 4.4
+  },
+  {
+    "name": "Punching Bag",
+    "category": "fitness",
+    "price": 120,
+    "rating": 4.5
+  },
+  {
+    "name": "Boxing Gloves",
+    "category": "fitness",
+    "price": 45,
+    "rating": 4.3
+  },
+  {
+    "name": "Martial Arts Gi",
+    "category": "fitness",
+    "price": 80,
+    "rating": 4.4
+  },
+  {
+    "name": "Kickboxing Pads",
+    "category": "fitness",
+    "price": 70,
+    "rating": 4.5
+  },
+  {
+    "name": "Yoga Wheel",
+    "category": "fitness",
+    "price": 30,
+    "rating": 4.2
+  },
+  {
+    "name": "Massage Gun",
+    "category": "fitness",
+    "price": 150,
+    "rating": 4.6
+  },
+  {
+    "name": "Foam Yoga Mat",
+    "category": "fitness",
+    "price": 25,
+    "rating": 4.3
+  },
+  {
+    "name": "Adjustable Dumbbells",
+    "category": "fitness",
+    "price": 250,
+    "rating": 4.7
+  },
+  {
+    "name": "Kettlebell Rack",
+    "category": "fitness",
+    "price": 90,
+    "rating": 4.4
+  },
+  {
+    "name": "Battle Rope",
+    "category": "fitness",
+    "price": 70,
+    "rating": 4.5
+  },
+  {
+    "name": "Suspension Trainer",
+    "category": "fitness",
+    "price": 80,
+    "rating": 4.6
+  },
+  {
+    "name": "Weighted Vest",
+    "category": "fitness",
+    "price": 100,
+    "rating": 4.5
+  },
+  {
+    "name": "Ankle Weights",
+    "category": "fitness",
+    "price": 30,
+    "rating": 4.3
+  },
+  {
+    "name": "Wrist Weights",
+    "category": "fitness",
+    "price": 25,
+    "rating": 4.2
+  },
+  {
+    "name": "Grip Strengthener",
+    "category": "fitness",
+    "price": 15,
+    "rating": 4.1
+  },
+  {
+    "name": "Exercise Ball",
+    "category": "fitness",
+    "price": 35,
+    "rating": 4.4
+  },
+  {
+    "name": "Step Platform",
+    "category": "fitness",
+    "price": 50,
+    "rating": 4.3
+  },
+  {
+    "name": "Agility Ladder",
+    "category": "fitness",
+    "price": 40,
+    "rating": 4.4
+  },
+  {
+    "name": "Cone Set",
+    "category": "fitness",
+    "price": 20,
+    "rating": 4.2
+  },
+  {
+    "name": "Parachute Trainer",
+    "category": "fitness",
+    "price": 60,
+    "rating": 4.3
+  },
+  {
+    "name": "Sandbag",
+    "category": "fitness",
+    "price": 70,
+    "rating": 4.5
+  },
+  {
+    "name": "Power Rack",
+    "category": "fitness",
+    "price": 400,
+    "rating": 4.7
+  },
+  {
+    "name": "Dip Station",
+    "category": "fitness",
+    "price": 120,
+    "rating": 4.6
+  },
+  {
+    "name": "Leg Press Machine",
+    "category": "fitness",
+    "price": 800,
+    "rating": 4.8
+  },
+  {
+    "name": "Cable Machine",
+    "category": "fitness",
+    "price": 700,
+    "rating": 4.7
+  },
+  {
+    "name": "Smith Machine",
+    "category": "fitness",
+    "price": 900,
+    "rating": 4.8
+  }
+  ]
