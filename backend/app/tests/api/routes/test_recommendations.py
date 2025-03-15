@@ -1,9 +1,20 @@
-import pytest
+from unittest.mock import patch, Mock
+
 from fastapi.testclient import TestClient
-from sqlalchemy import create_engine
-from sqlmodel import SQLModel, Session
+
 
 from app.core.config import settings
+from app.models import Product
+
+
+
+
+
+@patch("app.api.deps.SessionDep", new_callable=Mock)
+def test_get_all_products_not_found(mock_session, client: TestClient):
+    mock_session.exec.return_value.all.return_value = []
+    response = client.get("api/v1/products/all")
+    assert response.status_code == 200
 
 def test_delete_product(
     client: TestClient, superuser_token_headers: dict[str, str]

@@ -35,6 +35,20 @@ def create_product(
     session.refresh(product)
     return product
 
+@router.get("/all")
+def get_all(
+        session: SessionDep,
+) -> List[Product]:
+    """
+    Returns a list of all available products
+    """
+    products = session.exec(select(Product)).all()
+    if not products:
+        raise HTTPException(
+            status_code=404,
+            detail="No products found"
+        )
+    return products
 
 @router.patch("/update", response_model=Product)
 def update_product(
